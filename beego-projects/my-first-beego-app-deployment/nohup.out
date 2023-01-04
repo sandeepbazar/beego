@@ -1,0 +1,4 @@
+2022/12/23 16:08:23.514 [1;34m[I][0m [asm_amd64.s:1594]  http server Running on http://:8080
+2022/12/23 16:08:23.514 [1;34m[I][0m [asm_amd64.s:1594]  Admin server Running on localhost:8088
+IP :: [::1]:52115, Time :: Friday, 23-Dec-22 16:08:23 IST
+2022/12/23 16:08:23.631 [1;44m[D][0m [server.go:2947]  |            ::1|[42m 200 [0m|     3.5797ms|   match|[44m GET     [0m /     r:/
