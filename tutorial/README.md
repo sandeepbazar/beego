@@ -1,21 +1,3 @@
-# Working with the Go Web Application Framework – Beego
-
-Beego is used for rapid development of enterprise application in Go, including RESTful APIs, web apps and backend services.
-
-It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific features such as interfaces and struct embedding.
-
-# Architecture
-![beego arch](https://user-images.githubusercontent.com/5602033/210546966-f49d216b-5fac-4d5f-bca8-f865e5fc0527.png)
-
-![beego architecture](https://user-images.githubusercontent.com/5602033/210546995-22a95c24-3c50-425f-a02f-5100af165a26.png)
-
-
-# Beego is composed of four parts:
-
-* Base modules: including log module, config module, governor module;
-* Task: is used for running timed tasks or periodic tasks;
-* Client: including ORM module, httplib module, cache module;
-* Server: including web module. We will support gRPC in the future;
 
 # In this tutorial, we will cover the following sections:
 - Go Beego Framework Complete Tutorial in 30Mins: https://youtu.be/s1RSXRCxR6U
